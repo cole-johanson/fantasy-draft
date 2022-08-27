@@ -1,0 +1,401 @@
+RANK,PLAYER,PASSYDS,PASSTD,INT,RUSHYDS,RUSHTD,RECYDS,RECTD
+1,"Jonathan Taylor
+IndRB",0,0,0,1493,13,351,2
+2,"Christian McCaffrey
+CarRB",0,0,0,920,8,679,2
+3,"Cooper Kupp
+LARWR",0,0,0,25,0,1349,10
+4,"Austin Ekeler
+LACRB",0,0,0,897,8,611,3
+5,"Justin Jefferson
+MinWR",19,0,0,24,0,1367,8
+6,"Ja'Marr Chase
+CinWR",0,0,0,83,1,1247,9
+7,"Derrick Henry
+TenRB",0,0,0,1464,11,218,1
+8,"Najee Harris
+PitRB",0,0,0,1133,7,391,2
+9,"Alvin Kamara
+NORB",0,0,0,846,7,550,4
+10,"Dalvin Cook
+MinRB",0,0,0,1142,10,359,1
+11,"Davante Adams
+LVWR",0,0,0,0,0,1157,7
+12,"Deebo Samuel
+SFWR",0,0,0,372,4,985,5
+13,"Stefon Diggs
+BufWR",0,0,0,0,0,1145,8
+14,"Joe Mixon
+CinRB",0,0,0,1139,10,278,2
+15,"D'Andre Swift
+DetRB",0,0,0,840,7,501,3
+16,"CeeDee LambQ
+DalWR",0,0,0,59,0,1141,7
+17,"Tyreek Hill
+MiaWR",0,0,0,59,0,1087,7
+18,"Leonard Fournette
+TBRB",0,0,0,926,9,391,2
+19,"Mark Andrews
+BalTE",0,0,0,0,0,1010,8
+20,"Javonte Williams
+DenRB",0,0,0,972,7,359,2
+21,"Travis Kelce
+KCTE",0,0,0,7,0,972,7
+22,"James Conner
+AriRB",0,0,0,902,11,337,2
+23,"Aaron Jones
+GBRB",0,0,0,818,5,503,3
+24,"Keenan Allen
+LACWR",0,0,0,0,0,1028,7
+25,"Tee HigginsQ
+CinWR",0,0,0,0,0,1080,8
+26,"Mike Evans
+TBWR",0,0,0,0,0,1016,8
+27,"DJ Moore
+CarWR",0,0,0,54,0,1163,5
+28,"Cam AkersQ
+LARRB",0,0,0,1068,8,280,2
+29,"Saquon Barkley
+NYGRB",0,0,0,903,6,420,2
+30,"Michael Pittman Jr.
+IndWR",0,0,0,29,0,1084,6
+31,"A.J. Brown
+PhiWR",0,0,0,0,0,1058,7
+32,"Terry McLaurin
+WshWR",0,0,0,0,0,1073,6
+33,"Nick Chubb
+CleRB",0,0,0,1182,7,224,1
+34,"Diontae Johnson
+PitWR",0,0,0,26,0,1066,4
+35,"Jaylen WaddleQ
+MiaWR",0,0,0,48,0,910,6
+36,"Mike Williams
+LACWR",0,0,0,0,0,955,9
+37,"Brandin Cooks
+HouWR",0,0,0,24,0,1031,4
+38,"Kyle Pitts
+AtlTE",0,0,0,0,0,960,4
+39,"David MontgomeryQ
+ChiRB",0,0,0,883,7,332,2
+40,"J.K. DobbinsQ
+BalRB",0,0,0,948,9,250,1
+41,"Breece Hall
+NYJRB",0,0,0,1060,6,256,1
+42,"Ezekiel Elliott
+DalRB",0,0,0,870,8,287,2
+43,"Josh Allen
+BufQB",4094,33,13,678,7,0,0
+44,"Marquise Brown
+AriWR",0,0,0,0,0,1029,6
+45,"DK Metcalf
+SeaWR",0,0,0,0,0,1075,5
+46,"Jerry Jeudy
+DenWR",0,0,0,24,0,1048,6
+47,"Courtland Sutton
+DenWR",0,0,0,0,0,964,8
+48,"Travis Etienne Jr.
+JaxRB",0,0,0,704,4,421,2
+49,"Amon-Ra St. Brown
+DetWR",0,0,0,79,1,875,5
+50,"Darnell Mooney
+ChiWR",0,0,0,25,0,1084,4
+51,"Gabriel Davis
+BufWR",0,0,0,0,0,917,9
+52,"Chris GodwinQ
+TBWR",0,0,0,24,0,884,6
+53,"Patrick Mahomes
+KCQB",4610,36,12,358,3,0,0
+54,"Justin Herbert
+LACQB",4259,34,12,270,3,0,0
+55,"Josh Jacobs
+LVRB",0,0,0,884,9,265,1
+56,"Antonio Gibson
+WshRB",0,0,0,797,7,212,1
+57,"Elijah MitchellQ
+SFRB",0,0,0,1038,7,181,1
+58,"Miles SandersQ
+PhiRB",0,0,0,1079,5,230,1
+59,"Devin Singletary
+BufRB",0,0,0,912,7,206,1
+60,"Darren WallerQ
+LVTE",0,0,0,0,0,882,5
+61,"George Kittle
+SFTE",0,0,0,12,0,820,5
+62,"Lamar Jackson
+BalQB",3412,23,14,924,4,0,0
+63,"Kyler Murray
+AriQB",4112,25,13,491,5,0,0
+64,"Amari Cooper
+CleWR",0,0,0,0,0,890,5
+65,"Michael ThomasQ
+NOWR",0,0,0,0,0,815,5
+66,"Allen Robinson II
+LARWR",0,0,0,0,0,920,6
+67,"Hunter Renfrow
+LVWR",0,0,0,23,0,805,6
+68,"JuJu Smith-SchusterQ
+KCWR",0,0,0,0,0,836,7
+69,"Adam Thielen
+MinWR",0,0,0,0,0,797,7
+70,"Rashod Bateman
+BalWR",0,0,0,0,0,932,5
+71,"Drake LondonQ
+AtlWR",0,0,0,0,0,930,4
+72,"Tyler Lockett
+SeaWR",0,0,0,11,0,941,4
+73,"DeVonta Smith
+PhiWR",0,0,0,0,0,872,7
+74,"Elijah Moore
+NYJWR",0,0,0,38,0,932,5
+75,"Kadarius ToneyQ
+NYGWR",0,0,0,23,0,865,4
+76,"Jalen Hurts
+PhiQB",3294,23,11,721,9,0,0
+77,"Dalton Schultz
+DalTE",0,0,0,0,0,713,5
+78,"T.J. Hockenson
+DetTE",0,0,0,0,0,701,5
+79,"Clyde Edwards-Helaire
+KCRB",0,0,0,771,6,283,2
+80,"Kareem Hunt
+CleRB",0,0,0,554,4,405,2
+81,"Rhamondre Stevenson
+NERB",0,0,0,650,6,305,2
+82,"Damien HarrisQ
+NERB",0,0,0,815,10,124,1
+83,"Cordarrelle Patterson
+AtlRB",0,0,0,545,3,395,2
+84,"Tony Pollard
+DalRB",0,0,0,762,4,269,1
+85,"Chase Edmonds
+MiaRB",0,0,0,548,3,334,2
+86,"AJ Dillon
+GBRB",0,0,0,746,5,243,1
+87,"Dallas Goedert
+PhiTE",0,0,0,0,0,688,4
+88,"Zach ErtzQ
+AriTE",0,0,0,0,0,620,5
+89,"Dak Prescott
+DalQB",4425,31,11,195,3,0,0
+90,"Tom Brady
+TBQB",4547,34,12,42,2,0,0
+91,"Aaron Rodgers
+GBQB",4147,33,7,138,2,0,0
+92,"Russell Wilson
+DenQB",4089,30,10,303,2,0,0
+93,"Joe BurrowQ
+CinQB",4165,30,12,171,3,0,0
+94,"Matthew StaffordQ
+LARQB",4324,32,14,82,1,0,0
+95,"Christian Kirk
+JaxWR",0,0,0,0,0,915,5
+96,"Allen Lazard
+GBWR",0,0,0,26,0,784,7
+97,"Brandon Aiyuk
+SFWR",0,0,0,15,0,807,6
+98,"Garrett Wilson
+NYJWR",0,0,0,12,0,866,5
+99,"Robert WoodsQ
+TenWR",0,0,0,15,0,841,4
+100,"DeAndre HopkinsSSPD
+AriWR",0,0,0,0,0,665,5
+101,"Chase Claypool
+PitWR",0,0,0,71,1,864,4
+102,"Chris Olave
+NOWR",0,0,0,0,0,848,6
+103,"Trey Lance
+SFQB",3495,22,12,518,4,0,0
+104,"Rashaad PennyQ
+SeaRB",0,0,0,818,5,194,1
+105,"James RobinsonQ
+JaxRB",0,0,0,696,6,196,1
+106,"James Cook
+BufRB",0,0,0,365,2,323,2
+107,"Kenneth Walker IIIQ
+SeaRB",0,0,0,691,4,154,1
+108,"Dameon Pierce
+HouRB",0,0,0,668,4,168,1
+109,"Mike Gesicki
+MiaTE",0,0,0,0,0,577,4
+110,"Pat Freiermuth
+PitTE",0,0,0,0,0,563,4
+111,"Jakobi Meyers
+NEWR",0,0,0,0,0,782,4
+112,"Russell GageQ
+TBWR",0,0,0,0,0,721,5
+113,"Marquez Valdes-ScantlingQ
+KCWR",0,0,0,11,0,881,6
+114,"Kenny Golladay
+NYGWR",0,0,0,0,0,719,5
+115,"Skyy Moore
+KCWR",0,0,0,0,0,705,6
+116,"Tyler Boyd
+CinWR",0,0,0,13,0,735,4
+117,"Treylon BurksQ
+TenWR",0,0,0,44,0,699,5
+118,"Michael Carter
+NYJRB",0,0,0,430,3,367,2
+119,"Melvin Gordon III
+DenRB",0,0,0,603,6,187,1
+120,"Nyheim Hines
+IndRB",0,0,0,257,2,420,2
+121,"J.D. McKissicQ
+WshRB",0,0,0,278,2,390,1
+122,"Derek Carr
+LVQB",4187,27,12,102,1,0,0
+123,"Kirk Cousins
+MinQB",4110,29,10,97,1,0,0
+124,"Cole Kmet
+ChiTE",0,0,0,0,0,640,4
+125,"Hunter Henry
+NETE",0,0,0,0,0,565,6
+126,"Dawson Knox
+BufTE",0,0,0,0,0,556,6
+127,"Trevor Lawrence
+JaxQB",3889,23,15,307,2,0,0
+128,"Tua Tagovailoa
+MiaQB",3983,26,13,183,3,0,0
+129,"Justin Fields
+ChiQB",3625,18,15,602,3,0,0
+130,"Jahan Dotson
+WshWR",0,0,0,0,0,747,5
+131,"DJ Chark
+DetWR",0,0,0,0,0,705,5
+132,"Jarvis Landry
+NOWR",18,0,0,1,0,740,4
+133,"Joshua Palmer
+LACWR",0,0,0,0,0,631,5
+134,"Robbie Anderson
+CarWR",0,0,0,24,0,823,4
+135,"Marvin Jones Jr.
+JaxWR",0,0,0,0,0,682,6
+136,"DeVante Parker
+NEWR",0,0,0,0,0,706,4
+137,"Noah Fant
+SeaTE",0,0,0,0,0,612,3
+138,"Irv Smith Jr.Q
+MinTE",0,0,0,0,0,524,5
+139,"David Njoku
+CleTE",0,0,0,0,0,579,4
+140,"Tyler Higbee
+LARTE",0,0,0,0,0,502,5
+141,"Bills D/ST
+BufD/ST",0,0,0,0,0,0,0
+142,"Saints D/ST
+NOD/ST",0,0,0,0,0,0,0
+143,"Packers D/ST
+GBD/ST",0,0,0,0,0,0,0
+144,"Ravens D/ST
+BalD/ST",0,0,0,0,0,0,0
+145,"Buccaneers D/ST
+TBD/ST",0,0,0,0,0,0,0
+146,"49ers D/ST
+SFD/ST",0,0,0,0,0,0,0
+147,"Cowboys D/ST
+DalD/ST",0,0,0,0,0,0,0
+148,"Colts D/ST
+IndD/ST",0,0,0,0,0,0,0
+149,"Steelers D/ST
+PitD/ST",0,0,0,0,0,0,0
+150,"Commanders D/ST
+WshD/ST",0,0,0,0,0,0,0
+151,"Justin Tucker
+BalK",0,0,0,0,0,0,0
+152,"Evan McPherson
+CinK",0,0,0,0,0,0,0
+153,"Matt Gay
+LARK",0,0,0,0,0,0,0
+154,"Harrison Butker
+KCK",0,0,0,0,0,0,0
+155,"Daniel Carlson
+LVK",0,0,0,0,0,0,0
+156,"Brandon McManus
+DenK",0,0,0,0,0,0,0
+157,"Nick Folk
+NEK",0,0,0,0,0,0,0
+158,"Tyler Bass
+BufK",0,0,0,0,0,0,0
+159,"Matt Prater
+AriK",0,0,0,0,0,0,0
+160,"Graham GanoQ
+NYGK",0,0,0,0,0,0,0
+161,"Raheem Mostert
+MiaRB",0,0,0,676,5,100,1
+162,"Marlon Mack
+HouRB",0,0,0,584,4,119,0
+163,"Alexander Mattison
+MinRB",0,0,0,475,4,159,1
+164,"Darrell Henderson Jr.Q
+LARRB",0,0,0,437,3,166,1
+165,"Jamaal Williams
+DetRB",0,0,0,584,4,126,1
+166,"Kenneth Gainwell
+PhiRB",0,0,0,332,3,221,1
+167,"Isaiah SpillerQ
+LACRB",0,0,0,429,3,94,1
+168,"Khalil HerbertQ
+ChiRB",0,0,0,465,3,119,1
+169,"Tyler Allgeier
+AtlRB",0,0,0,414,2,116,1
+170,"Brian Robinson
+WshRB",0,0,0,599,6,89,0
+171,"Jalen Tolbert
+DalWR",0,0,0,0,0,697,5
+172,"Rondale Moore
+AriWR",0,0,0,116,1,544,3
+173,"Mecole Hardman
+KCWR",0,0,0,71,1,563,4
+174,"Michael GallupO
+DalWR",0,0,0,0,0,686,5
+175,"Nico Collins
+HouWR",0,0,0,0,0,746,4
+176,"Julio Jones
+TBWR",0,0,0,0,0,573,4
+177,"George Pickens
+PitWR",0,0,0,0,0,729,3
+178,"Van JeffersonQ
+LARWR",0,0,0,27,0,701,5
+179,"Curtis Samuel
+WshWR",0,0,0,76,1,528,4
+180,"Wan'Dale Robinson
+NYGWR",0,0,0,72,1,645,3
+181,"Christian WatsonQ
+GBWR",0,0,0,24,0,508,4
+182,"Jameson WilliamsO
+DetWR",0,0,0,0,0,440,3
+183,"Alec Pierce
+IndWR",0,0,0,0,0,677,5
+184,"Evan Engram
+JaxTE",0,0,0,0,0,570,3
+185,"Austin Hooper
+TenTE",0,0,0,0,0,495,4
+186,"Hayden Hurst
+CinTE",0,0,0,0,0,529,4
+187,"Daniel Jones
+NYGQB",3699,20,12,382,3,0,0
+188,"Carson Wentz
+WshQB",3758,24,10,217,2,0,0
+189,"Chargers D/ST
+LACD/ST",0,0,0,0,0,0,0
+190,"Dolphins D/ST
+MiaD/ST",0,0,0,0,0,0,0
+191,"Greg Joseph
+MinK",0,0,0,0,0,0,0
+192,"Jake Elliott
+PhiK",0,0,0,0,0,0,0
+193,"Isiah Pacheco
+KCRB",0,0,0,307,3,101,1
+194,"Rachaad White
+TBRB",0,0,0,324,3,185,1
+195,"Rex Burkhead
+HouRB",0,0,0,231,2,285,2
+196,"Sony Michel
+MiaRB",0,0,0,396,3,60,0
+197,"Darrel Williams
+AriRB",0,0,0,241,3,225,1
+198,"Jerick McKinnon
+KCRB",0,0,0,169,2,235,1
+199,"Ronald Jones
+KCRB",0,0,0,121,1,32,0
+200,"Mark Ingram II
+NORB",0,0,0,467,4,112,0

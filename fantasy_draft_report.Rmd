@@ -1,0 +1,21 @@
+---
+title: "Fantasy Draft 2022"
+author: "Cole Johanson"
+date: "2022-08-27"
+output: html_document
+---
+
+```{r include=FALSE, message=F}
+knitr::opts_chunk$set(echo=F,message=F)
+source(here::here('src/functions.R'))
+source(here::here('src/clean.R'))
+source(here::here('src/analyze.R'))
+```
+
+## Priority list
+
+The input data for this prioritization list is ESPN / CBS 2022 projections. This is meant to work as a model, with the end user making decision in real-time during the draft depending on his/her needs.
+
+```{r}
+kbl_priorities
+```
