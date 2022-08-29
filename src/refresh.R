@@ -18,3 +18,5 @@ googlesheets4::read_sheet(fantasy_data_url,sheet="ESPN Defense") %>%
   write_csv('data/espn_def.csv')
 googlesheets4::read_sheet(fantasy_data_url,sheet="ESPN Kickers",col_types="??ccccc") %>% 
   write_csv('data/espn_k.csv')
+googlesheets4::read_sheet(fantasy_data_url,sheet="FP ALL") %>% 
+  write_csv('data/fantasypros.csv')

@@ -72,6 +72,12 @@ espn_k = read_csv(here::here('data/espn_k.csv'),show_col_types = F) %>%
     `50+` = remove_attempts(`FG50+/FGA50+`),
     `XPM` = remove_attempts(`XP/XPA`)
   ) %>% select(-contains("/"))
+fp = read_csv(here::here('data/fantasypros.csv'),show_col_types = F) %>% 
+  mutate(
+    position = NA_character_,
+    source = 'Fantasy Pros',
+    PLAYER = clean_names(`PLAYER NAME`)
+  )
 
 all_data = cbs_qb %>% 
   union_all(cbs_k) %>%
@@ -82,12 +88,17 @@ all_data = cbs_qb %>%
   union_all(espn_flex) %>%
   union_all(espn_def) %>%
   union_all(espn_k) %>% 
+  union_all(fp) %>% 
   mutate_if(is.double,~coalesce(.,0)) %>% 
-  group_by(PLAYER, position) %>% 
+  group_by(PLAYER) %>% 
   filter(
     # Only take players with a record in each
-    any(source=='ESPN') &any(source=='CBS')
+    any(source=='ESPN') & any(source=='CBS') 
   ) %>% 
+  mutate(
+    # Fill in missing from FP
+    position = max(position, na.rm=T)
+  ) %>%
   mutate(
     fantasy_points = 
       PASSYDS*0.04 +
@@ -111,7 +122,10 @@ all_data = cbs_qb %>%
       ITD*6 + # Interception Return TD
       FTD*6 + # Fumble Return TD
       DTD*6 # Defensive Touchdowns (FTD + ITD)
-  ) %>% 
+  ) 
+
+all_data_summarised = all_data %>%
+  group_by(PLAYER, position) %>% 
   summarise(
     fantasy_points = mean(fantasy_points),
     .groups='drop'

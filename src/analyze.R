@@ -1,6 +1,6 @@
-all_data_plus_flex = all_data %>% 
+all_data_plus_flex = all_data_summarised %>% 
   union_all(
-    all_data %>% filter(position %in% c('RB','WR','TE')) %>% 
+    all_data_summarised %>% filter(position %in% c('RB','WR','TE')) %>% 
       mutate(position = 'FLEX')
   )
 
@@ -31,7 +31,7 @@ value_vs_avg_starting = all_data_plus_flex %>%
     value_diff = max(value_diff)
   )
 
-priorities = all_data %>% 
+priorities = all_data_summarised %>% 
   left_join(value_vs_avg_starting, by="PLAYER") %>% 
   arrange(desc(value_diff)) 
 
